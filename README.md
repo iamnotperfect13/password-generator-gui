@@ -1,4 +1,4 @@
-Password Generator GUI
+# Password Generator GUI
 
 Простое настольное приложение на Python (Tkinter) для генерации надёжных паролей.
 
