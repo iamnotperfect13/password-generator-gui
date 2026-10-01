@@ -1,4 +1,4 @@
-<img width="444" height="491" alt="image" src="https://github.com/user-attachments/assets/93d2ffb6-0c3b-412b-b4a7-2f6adbf4ea2e" /># Password Generator GUI
+Password Generator GUI
 
 Простое настольное приложение на Python (Tkinter) для генерации надёжных паролей.
 
