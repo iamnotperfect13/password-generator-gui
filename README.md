@@ -10,8 +10,7 @@
 - Светлая и тёмная тема
 
 ## Как запустить
-
-Или используй готовый `PasswordGenerator.exe` из папки `dist` (только для Windows).
+```python password_generator_gui.py ```
 
 ## Технологии
 Python, Tkinter, модуль `secrets` для криптографически стойкой генерации.
